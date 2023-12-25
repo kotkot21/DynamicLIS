@@ -1,0 +1,6 @@
+.bordered-line {
+    -fx-stroke: yellow; /* Set the line color */
+    -fx-stroke-width: 2px; /* Set the line width */
+    -fx-border-color: black; /* Set the border color */
+    -fx-border-width: 2px; /* Set the border width */
+}
